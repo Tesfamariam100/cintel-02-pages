@@ -4,7 +4,7 @@ My first website using Markdown and GitHub Pages.
 
 ## Links (Two hashes is a second level heading)
 
-Here's a clickable link: ![My favorite AI assistant](https://copilot.microsoft.com/images/create/a-user-with-a-computer-in-front-and-a-coffee-mug-i/1-65e7d94962954d68a8d92c8fb53214c6?id=N4kITezYIaH0B0PILHioCQ%3D%3D&view=detailv2&idpp=genimg&idpclose=1&thId=OIG3.Cv60AQNyMhY8UZNoD_Mb&ineditshare=1)
+Here's a clickable link:![image](https://github.com/Tesfamariam100/cintel-02-pages/assets/156039404/3e82e5c1-b0de-4234-ad80-058318f7b274)
 
 ## Images
 
